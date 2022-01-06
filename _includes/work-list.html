@@ -1,0 +1,16 @@
+<h3>Projects</h3>
+{% for post in site.categories.projects %}
+  <article class="single" id=" {{post.slug}} ">
+    <h4> {{ post.subhead }}: {{ post.title }} </h4>
+    <p class="description"> {{ post.excerpt | strip_html }} </p>
+    <p><a href="{{ post.url | relative_url }}">Full Project Description</a></p>
+    <hr>
+  </article>
+{% endfor %}
+<h3>Exercises</h3>
+{% for post in site.categories.exercises %}
+  <article class="single" id="{{post.slug}}">
+    {{ post.content }}
+    <hr>
+  </article>
+{% endfor %}

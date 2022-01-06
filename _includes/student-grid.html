@@ -1,0 +1,5 @@
+{% for post in site.categories.student reversed%}
+  <article class="student">
+    <a href="{{ post.link | absolute_url }}"><h2 class="title"> {{ post.title }} </h2></a>
+  </article>
+{% endfor %}
