@@ -1,0 +1,20 @@
+I"<p>w—
+layout: tutorial
+author: Michael McDermott
+title: Wash, Rinse, Repeat
+slug: e9
+subhead: Exercise 9
+categories: [exercises]
+—</p>
+<h4 id="exercise-9-wash-rinse-repeat">Exercise 9: Wash, Rinse, Repeat</h4>
+<p>Pick an object in your house that can make a repetitive motion (stapler going up and down, scissors cutting, light turning on and off, etc.) and make a short animation of that object. Use the loop expression to make the motion repeat over at least 15 seconds of video even though the actual motion might be a second. If you can, think about the secondary motion that can happen in the video to help build complexity. Can you add extra graphic elements to exaggerate a motion? Can something subtle be happening in the background to make the world you are building feel more real?</p>
+
+<h5 id="technical-requirements">Technical Requirements</h5>
+<ul>
+  <li>1080x1080</li>
+  <li>Around 15 seconds</li>
+  <li>Uses the loop expression</li>
+</ul>
+
+<p><span class="due">Due Wednesday, April 14 by 11:59 pm ET</span></p>
+:ET

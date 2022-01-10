@@ -7,201 +7,198 @@ This schedule maps out what we are covering in class each week and what work we 
 
 If you want to know what is due for next class, [check here]({{ site.baseurl }}/due).
 
-### August 26 &mdash; Week 1
-In our first week we will go over the framework for the class, meet each other, and make a quick, small poster.
+### January 27 &mdash; Week 1
+In our first week we will go over the framework for the class, meet each other, and make a gif.
 
 #### Lessons
 * 1.1: Introduction
-* 1.2: Grids
+* 1.2: Gifs
 
 #### Starting
-* E1: [About Me]({{ site.baseurl }}/projects#e1)
-* P1: [Using Only Type]({{ site.baseurl }}/projects/p1)
-
-#### Reading
-* R1: Selections from _Critique_ by Ian Lynam
-
-#### Digital References
-* _Poster House:_ [What is a Poster?](https://posterhouse.org/blog/what-is-a-poster/)
-* _Adobe Illustrator:_ [Rulers, Grids, and Guides](https://helpx.adobe.com/illustrator/using/rulers-grids-guides-crop-marks.html)
+* E1: [dot gif]({{ site.baseurl }}/projects#e1)
+* P1: [Start]({{ site.baseurl }}/projects/p1)
 
 ---
 
-### September 2 &mdash; Week 2
-This week we will focus on how type can be used as a formal element and not just to be read. We will also have our first craft demo on cutting.
+### February 3 &mdash; Week 2
+Motion projects take thought and planning to execute well. This week we will cover the process of storyboarding, creating concept boards, and cover other parts of the planning process.
 
 #### Lessons
-* 2.1: Type as Image
-
-#### Demos
-* D1: Craft&mdash;Cutting
-
-#### Critiques
-* Small Group
+* 2.1: Planning for Motion (Shots, Storyboards, Concept Boards, Animatics)
 
 #### Starting
-* E2: [Type Effects]({{ site.baseurl }}/projects#e2)
+* E2: [Flip Book]({{ site.baseurl }}/projects#e2)
 
 #### Digital References
-* _Youtube:_ [InDesign How-To: Create Crop Marks on Page Elements](https://www.youtube.com/watch?v=Bqm1bNADtu0)
-* _Youtube:_ [How to cut (X-acto) like an architect](https://www.youtube.com/watch?v=seXAwAFCpu8)
+* _School of Motion:_ [What Are Animatics, and Why Are They Important?](https://www.schoolofmotion.com/blog/what-are-animatics-and-why-are-they-important)
+* _Studio Binder:_ [Every Shot Size Explained](https://www.youtube.com/watch?v=AyML8xuKfoc)
 
 ---
 
-### September 9 &mdash; Week 3
-The ability to print correctly the first time takes some practice. This week we will cover file setup and printing to make sure money isn't wasted on bad prints. We will also have our second craft demo on tiling.
-
-#### Lessons
-* 3.1: File Setup and Printing
-
-#### Demos
-* D2: Craft&mdash;Tiling
-
-#### Critiques
-* Individual
-
-#### Starting
-* E3: [6 Word Memoir]({{ site.baseurl }}/projects#e3)
-
-#### Digital References
-* _Adobe InDesign:_ [Printer's Marks and Bleeds](https://helpx.adobe.com/indesign/using/printers-marks-bleeds.html)
-* _Adobe InDesign:_ [Print Thumbnails and Oversized Documents](https://helpx.adobe.com/indesign/using/printing-thumbnails-oversized-documents.html)
-
----
-
-### September 16 &mdash; Week 4
-A quick journey through history about posters and how they were printed.
+### February 10 &mdash; Week 3
+After Effects is a complex and powerful program which we will only start to understand in this class. This week we will introduce the After Effects interface and the primary tools used creating motion.
 
 #### Class
-* 4.1: Ways of Printing
-
-#### Critiques
-* Pair
+* 3.1: What is Motion Design?
+* 3.2: After Effects Tour
+* 3.3: Position, Scale, Opacity, Rotation
 
 #### Starting
-* E4: [New Views]({{ site.baseurl }}/projects#e4)
+* E3: [Literal Type]({{ site.baseurl }}/projects#e3)
+
+#### Digital References
+* _Adobe:_ [Get to Know After Effects](https://helpx.adobe.com/after-effects/how-to/getting-started-after-effects.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_us.json&ref=helpx.adobe.com)
+* _Adobe:_ [Work with Compositions](https://helpx.adobe.com/after-effects/how-to/create-composition-animation.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_us.json&ref=helpx.adobe.com)
+* _School of Motion:_ [3 Pro Tips for After Effects Beginners](https://www.schoolofmotion.com/blog/3-pro-tips-after-effects-beginners)
+
+---
+
+### February 17 &mdash; Week 4
+Taking our knowledge a little further we will talk about the 12 Principles of Animation and introduce some new tools in After Effects.
+
+#### Class
+* 4.1: 12 Principles of Animation
+* 4.2: Null Objects and Effects
+
+#### Starting
+* E4: [Sound and Motion]({{ site.baseurl }}/projects#e4)
 * P2: [Start]({{ site.baseurl }}/projects/p2)
 
 #### Digital References
-* _International Poster Gallery:_ [A Brief History of the Poster](https://www.internationalposter.com/a-brief-history-of-the-poster/)
+* _Disney:_ [The 12 Principles of Animation as Illustrated Through Disney and Pixar Films](https://ohmy.disney.com/movies/2016/07/20/twelve-principles-animation-disney/)
+* _Alan Becker Tutorials:_ [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4)
+* _Adobe:_ [Control Animation of Multiple Layers with Parenting](https://helpx.adobe.com/after-effects/how-to/animating-with-parenting.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/set-header:animating-essentials/playlist:topic/en_us.json&ref=helpx.adobe.com)
 
 ---
 
-### September 23 &mdash; Week 5
-After working with type AS image we will now move into type AND image.
-
-#### Critiques
-* Half Class
-
-#### Starting
-* E5: [Cut, Tear, Tape, Paste]({{ site.baseurl }}/projects#e5)
-* P2: [Content Follows Form]({{ site.baseurl }}/projects/p2)
-
-#### Reading
-* R2: [_The Persistence of Posters_ by Andrew Blauvelt](https://walkerart.org/magazine/the-persistence-of-posters)
-
----
-
-### September 30 &mdash; Week 6
-Small group brainstorming to generate content ideas for P2.
+### February 24 &mdash; Week 5
+The two topics covered this week are important for any motion project. Cuts and transitions allow the story to move from one scene to the next and inside After Effects the graph editor allows for fine control over the speed of motion to help it feel more realistic.
 
 #### Class
-* 5.1: Type and Image &ndash; [Miro Board](https://miro.com/app/board/o9J_lv_cyIc=/)
-
-#### Critiques
-* Small Group
-
----
-
-### October 7 &mdash; Week 7
-A look at how posters and protest have coexisted. Also a workshop about creating paper stencils.
-
-#### Class Lessons
-* 6.1: The Art of Protest &ndash; [Miro Board](https://miro.com/app/board/o9J_lrgGB00=/)
-
-#### Demo
-* D3: Craft&mdash;Paper Stencils
-
-#### Critiques
-* Individual
+* 5.1: Cuts and Transitions
+* 5.2: Graph Editor
 
 #### Starting
-* E6: Protest Posters
+* E5: [Type in Motion]({{ site.baseurl }}/projects#e5)
 
 #### Digital References
-* _Poster House:_ [A History of American Protest](https://posterhouse.org/blog/a-history-of-american-protest/)
-* _Poster House:_ [Hot Poster Tips](https://posterhouse.org/blog/hot-poster-tips/)
-* _Speedball:_ [Cut Paper Stencil Method](https://www.youtube.com/watch?v=22OgwP74I1U)
+* _School of Motion:_ [Six Essential Motion Design Transitions](https://www.schoolofmotion.com/blog/six-essential-motion-design-transitions-tutorial)
+* _School of Motion:_ [Using the Graph Editor in After Effects](https://www.schoolofmotion.com/blog/graph-editor-after-effects)
+* _School of Motion:_ [Intro to the Graph Editor in After Effects](https://www.schoolofmotion.com/blog/intro-to-the-graph-editor-in-after-effects)
+* _Adobe:_ [Build Custom Transitions](https://helpx.adobe.com/after-effects/how-to/create-custom-transitions.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_us.json)
+* _Adobe:_ [Create Dynamic Movement Between Keyframes with the Graph Editor](https://helpx.adobe.com/after-effects/how-to/adjusting-keyframes-dynamic-movement.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/set-header:animating-essentials/playlist:topic/en_us.json&ref=helpx.adobe.com)
+* _RocketJump Film School_ [Cuts &amp; Transitions 101](https://youtu.be/OAH0MoAv2CI)
 
 ---
 
-### October 14 &mdash; Week 8
-A screen printing workshop to create protest posters.
+### March 3 &mdash; Week 6
+We dive a little deeper into After Effects this week looking at some animation techniques and reviewing masks and mattes.
 
-#### Demo
-* D4: Craft&mdash;Screen Printing
-
-#### Critiques
-* Pairs
-
-#### Reading
-* R3: Skipping
-* R4: [_Matta-Clark Complex_ by James Goggin](https://www.are.na/block/690465)
-
----
-
-### October 21 &mdash; Week 9
-Beginning the final poster this week.
-
-#### Critiques
-* Undecided
+#### Class Lessons
+* 6.1: Animating Shapes and Trim Paths
+* 6.2: Masks and Mattes
 
 #### Starting
-* P3: [For an Exhibition]({{ site.baseurl }}/projects/p3)
+* E6: [Bouncing Ball]({{ site.baseurl }}/projects#e6)
+
+#### Digital References
+* _School of Motion:_ [How to Use Masks in After Effects](https://www.schoolofmotion.com/blog/how-to-use-masks-in-after-effects)
+* _School of Motion:_ [Exaggerate Animation with Squash and Stretch](https://www.schoolofmotion.com/blog/squash-and-stretch-quick-tip)
+* _School of Motion:_ [Squash and Stretch in After Effects](https://www.schoolofmotion.com/blog/squash-stretch-after-effects)
+* _Adobe:_ [Animate an Object to Follow Along a Path](https://helpx.adobe.com/after-effects/how-to/animate-along-path.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/set-header:animating-essentials/playlist:topic/en_us.json&ref=helpx.adobe.com)
 
 ---
 
-### October 28 &mdash; Week 10
-I will not be here this week but you all are fully capable of handling this week on your own.
+### March 10 &mdash; Week 7
+Our After Effects training has generally come to an end by this week and we start to begin the final project. This week we will cover ideas about title sequences and moving posters.
 
-#### Critiques
-* Virtual small group
+#### Class Lessons
+* 7.1: The Moving Poster
+* 7.2: Title Sequences
 
----
+#### Starting
+* E7: [Poster Animation]({{ site.baseurl }}/projects#e7)
+* P3: [Something in Motion]({{ site.baseurl }}/projects/p3)
 
-### November 4 &mdash; Week 11
-Working in class and critiques.
-
-#### Critiques
-* Half Class
-
----
-
-### November 11 &mdash; Week 12
-Working in class and critiques.
-
-#### Critiques
-* Individual
+#### Digital References
+* _Adobe:_ [Make Text Write Itself](https://helpx.adobe.com/after-effects/how-to/write-on-effect.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/playlist:topic/set-header:projects-to-get-started/en_us.json&ref=helpx.adobe.com)
+* _School of Motion:_ [Create a Write-On Effect in After Effects](https://www.schoolofmotion.com/blog/write-on-after-effects)
+* _School of Motion:_ [How to Create Morphing Letters in After Effects](https://www.schoolofmotion.com/blog/morphing-letters-after-effects)
+* _School of Motion:_ [Motion Design in Real Life](https://www.schoolofmotion.com/blog/title-design-after-effects)
 
 ---
 
-### November 18 &mdash; Week 13
+### March 17 &mdash; Week 8
+No class, Spring Break!
+
+---
+
+### March 24 &mdash; Week 9
+Individual meetings this week to present your final project beginnings.
+
+#### Lessons
+* Individual Meetings
+
+---
+
+### March 31 &mdash; Week 10
+We will take another look at title sequences and a few kinetic type videos. The main focus will be be reviewing the work for Project 3.
+
+#### Lessons
+* 8.1: Title Sequences
+
+---
+
+### April 7 &mdash; Week 11
+Come to class ready to work with your best ideas. This week you will create a video in class and we will screen them all at the end. We will also cover the main ideas of what logo reveals should accomplish and then create our own.
+
+#### Lessons
+* 9.1: Logo Reveals
+
+#### Starting
+* E8: [Logo Reveal]({{ site.baseurl }}/projects#e8)
+
+#### Digital References
+* _Adobe:_ [Animate a Title Reveal](https://helpx.adobe.com/after-effects/how-to/animate-title-reveal.html?playlist=/services/playlist.helpx/set-header:after-effects-projects/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/playlist:topic/en_us.json&ref=helpx.adobe.com)
+
+---
+
+### April 14 &mdash; Week 12
 Individual meetings this week to look at your projects.
 
-#### Critiques
-* Individual
+#### Lessons
+* Individual meetings
 
 ---
 
-### November 25 &mdash; Week 14
-No Class: Thanksgiving Break
+### April 21 &mdash; Week 13
+Group meetings to discuss your projects. For an out of class activity watch the tutorials below on expressions and complete the optional E9.
+
+#### Lessons
+* 9.1: Expressions (look at Digital Resources)
+* Group Meetings
+
+#### Starting
+* E9: [Wash, Rinse, Repeat (optional)]({{ site.baseurl }}/projects#e9)
+
+#### Digital References
+* _School of Motion:_ [After Effects Expressions 101](https://www.schoolofmotion.com/blog/after-effects-expressions-101)
+* _School of Motion:_ [Amazing Expressions in After Effects](https://www.schoolofmotion.com/blog/amazing-expressions-in-after-effects)
+* _School of Motion:_ [How to Use the Loop Expression in After Effects](https://www.schoolofmotion.com/blog/loop-expression-after-effects)
+---
+
+### April 28 &mdash; Week 14
+Group critique to discuss your projects.
+
+#### Lessons
+* Group critique
 
 ---
 
-### December 1 &mdash; Week 15
-Hang all posters somewhere?
+### May 5 &mdash; Week 15
+The final week to review any odds and ends.
 
 ---
 
-### December 9 &mdash; Week 16
-Final Critiques
+### May 12 &mdash; Week 16
+Final critiques.

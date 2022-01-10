@@ -25,15 +25,15 @@ textarea { resize: vertical; }
 /* ========================================================================== Author's custom styles ========================================================================== */
 * { box-sizing: border-box; }
 
-::selection { background: orangered; }
+::selection { background: #fffffe; }
 
-::-moz-selection { background: orangered; }
+::-moz-selection { background: #fffffe; }
 
 html { font-size: 16px; }
 
-body { margin: 0; font-family: "bureau-grot", sans-serif; font-size: 16px; font-weight: 400; line-height: 1.5; background-color: ivory; color: midnightblue; width: 100vw; overflow-x: hidden; }
+body { margin: 0; font-family: "bureau-grot", sans-serif; font-size: 16px; font-weight: 400; line-height: 1.5; background-color: #00ebc7; color: #00214d; width: 100vw; overflow-x: hidden; }
 
-.interior { background-color: ivory; }
+.interior { background-color: #00ebc7; }
 
 .interior img { max-width: 100%; }
 
@@ -47,15 +47,15 @@ li { padding: 0 25px 0 0; margin: 15px 0 0; text-transform: uppercase; letter-sp
 
 .tutorial-page li, .single li, .project li { margin: 10px 0 0; letter-spacing: 0; float: none; text-transform: initial; font-weight: normal; font-size: 1.2rem; }
 
-li a, .interior a { border-bottom: 3px solid midnightblue; }
+li a, .interior a { border-bottom: 3px solid #00214d; }
 
-li a:hover { border-bottom: 3px solid orangered; }
+li a:hover { border-bottom: 3px solid #fffffe; }
 
-li a.active { color: midnightblue; border-bottom: 3px solid gold; }
+li a.active { color: #00214d; border-bottom: 3px solid #225bff; }
 
-li a.active:hover, .interior li a:hover, .interior a:hover { color: midnightblue; border-bottom: 3px solid orangered; }
+li a.active:hover, .interior li a:hover, .interior a:hover { color: #00214d; border-bottom: 3px solid #fffffe; }
 
-.interior h1 a, .interior h1 a:hover { border-bottom: none; color: orangered; }
+.interior h1 a, .interior h1 a:hover { border-bottom: none; color: #fffffe; }
 
 header { width: 100%; }
 
@@ -67,7 +67,7 @@ nav li { float: none; margin: 10px 0; }
 
 nav li.mobile-nav:hover { cursor: pointer; }
 
-nav #menu { position: fixed; top: 0; left: 0; background-color: ivory; width: 100vw; height: 100vh; z-index: 100; padding: 25px 50px; }
+nav #menu { position: fixed; top: 0; left: 0; background-color: #00ebc7; width: 100vw; height: 100vh; z-index: 100; padding: 25px 50px; }
 
 nav #menu li { font-size: 2em; margin: 30px 0; }
 
@@ -79,15 +79,15 @@ section { display: grid; grid-template-columns: 100%; grid-gap: 5vw; margin: 25p
 
 .single, .tutorial-page { width: 100%; margin: 50px 0; }
 
-.student, .tutorial { padding: 15px; border: 3px solid midnightblue; box-shadow: 6px 6px orangered; position: relative; top: 0; left: 0; transition: top .5s ease, left .5s ease, box-shadow .5s ease, background-color .5s ease; cursor: pointer; }
+.student, .tutorial { padding: 15px; border: 3px solid #00214d; box-shadow: 6px 6px #fffffe; position: relative; top: 0; left: 0; transition: top .5s ease, left .5s ease, box-shadow .5s ease, background-color .5s ease; cursor: pointer; }
 
-.student:hover, .tutorial:hover { position: relative; background-color: orangered; top: 3px; left: 3px; box-shadow: 0 0 orangered; }
+.student:hover, .tutorial:hover { position: relative; background-color: #fffffe; top: 3px; left: 3px; box-shadow: 0 0 #fffffe; }
 
 .student:nth-child(3n+3) { margin-right: 0; }
 
 .student a, .tutorial a, .tutorial p, .tutorial h5 { transition: color .5s ease; }
 
-.student:hover a, .tutorial:hover a, .tutorial:hover p, .tutorial:hover h5 { color: ivory; }
+.student:hover a, .tutorial:hover a, .tutorial:hover p, .tutorial:hover h5 { color: #00ebc7; }
 
 section.projects { display: block; }
 
@@ -103,19 +103,19 @@ footer { display: none; }
 
 a { transition: border-color .5s ease; }
 
-a, a:hover, a:active, a:visited { color: midnightblue; text-decoration: none; }
+a, a:hover, a:active, a:visited { color: #00214d; text-decoration: none; }
 
-h1 a, h1 a:hover, h1 a:active, h1 a:visited { color: midnightblue; -webkit-text-stroke: 0 midnightblue; }
+h1 a, h1 a:hover, h1 a:active, h1 a:visited { color: #00214d; -webkit-text-stroke: 0 #00214d; }
 
 p { font-size: 1.2rem; line-height: 1.6em; margin-top: .25em; margin-bottom: 1.25em; }
 
 .description { margin-bottom: 25px; }
 
-.section-title { grid-column: span 1; text-transform: uppercase; letter-spacing: .1rem; color: ivory; margin: 0; }
+.section-title { grid-column: span 1; text-transform: uppercase; letter-spacing: .1rem; color: #00ebc7; margin: 0; }
 
-.interior .section-title { color: midnightblue; }
+.interior .section-title { color: #00214d; }
 
-.section-title span { background-color: midnightblue; padding: 4px 6px; }
+.section-title span { background-color: #00214d; padding: 4px 6px; }
 
 #lightbox { position: fixed; top: 2vh; left: 5vw; width: 90vw; height: 96vh; background: url() no-repeat center center; background-size: contain; z-index: 99; }
 
@@ -127,9 +127,9 @@ aside { display: none; }
 
 h1, h2, h3, h4, h5 { margin: 0; font-weight: 400; line-height: 1.15; font-family: "bureau-grot", sans-serif; }
 
-h1 { margin-top: 0; font-size: 2.5em; text-transform: uppercase; letter-spacing: .1rem; font-weight: 700; -webkit-text-stroke: 0; color: orangered; }
+h1 { margin-top: 0; font-size: 2.5em; text-transform: uppercase; letter-spacing: .1rem; font-weight: 700; -webkit-text-stroke: 0; color: #fffffe; }
 
-.interior h1 { color: orangered; }
+.interior h1 { color: #fffffe; }
 
 h2 { font-size: 2.441em; text-transform: uppercase; letter-spacing: .1px; font-weight: 700; margin-top: .25rem; }
 
@@ -139,31 +139,31 @@ h4 { font-size: 1.2em; margin-top: 25px; text-transform: uppercase; letter-spaci
 
 h5 { font-size: 1.25em; text-transform: uppercase; letter-spacing: .1px; }
 
-.command { background-color: orangered; color: ivory; white-space: nowrap; padding: 3px 3px; }
+.command { background-color: #fffffe; color: #00ebc7; white-space: nowrap; padding: 3px 3px; }
 
-.due { color: gold; font-size: 1rem; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; }
+.due { color: #225bff; font-size: 1rem; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; }
 
 ul.date-list { padding: 0; margin-left: 0; }
 
 .date-list li { list-style-type: none; }
 
-.date { color: orangered; }
+.date { color: #225bff; }
 
-.spoiler { color: white; white-space: pre-wrap; font-family: monospace; border: 3px solid midnightblue; margin: 3px 3px; }
+.spoiler { color: white; white-space: pre-wrap; font-family: monospace; border: 3px solid #00214d; margin: 3px 3px; }
 
-.spoiler::selection { background-color: midnightblue; }
+.spoiler::selection { background-color: #00214d; }
 
-code { color: ivory; background-color: midnightblue; white-space: pre-wrap; padding: 3px 3px; }
+code { color: #00ebc7; background-color: #00214d; white-space: pre-wrap; padding: 3px 3px; }
 
 small, .text-small { font-size: 0.8em; font-weight: 700; }
 
 header small { text-transform: uppercase; letter-spacing: 1px; }
 
-h1 .info { font-size: 16px; -webkit-text-stroke: 0; color: midnightblue; letter-spacing: 1px; }
+h1 .info { font-size: 16px; -webkit-text-stroke: 0; color: #00214d; letter-spacing: 1px; }
 
-.link-small { font-size: 0.8em; font-weight: 700; text-transform: uppercase; letter-spacing: .1px; border-bottom: 3px solid midnightblue; }
+.link-small { font-size: 0.8em; font-weight: 700; text-transform: uppercase; letter-spacing: .1px; border-bottom: 3px solid #00214d; }
 
-hr { border-top: 3px solid orangered; margin: 25px 0 50px; }
+hr { border-top: 3px solid #fffffe; margin: 25px 0 50px; }
 
 /* ========================================================================== Helper classes ========================================================================== */
 /* Hide visually and from screen readers */
@@ -184,7 +184,7 @@ hr { border-top: 3px solid orangered; margin: 25px 0 50px; }
 .clearfix:after { clear: both; }
 
 /* ========================================================================== EXAMPLE Media Queries for Responsive Design. These examples override the primary ('mobile first') styles. Modify as content requires. ========================================================================== */
-@media only screen and (min-width: 520px) { header { position: relative; } main { width: 95vw; } h1 a, h1 a:hover, h1 a:active, h1 a:visited { color: ivory; -webkit-text-stroke: 3px midnightblue; } .interior h1 a, .interior h1 a:hover { border-bottom: none; color: ivory; } h1 { margin-top: 0; font-size: 4.25em; text-transform: uppercase; letter-spacing: .1rem; font-weight: 700; color: ivory; -webkit-text-stroke: 3px midnightblue; } ul { text-decoration: none; list-style-type: none; text-align: left; } li { padding: 0; margin: 15px 0 0; text-transform: uppercase; letter-spacing: .05rem; font-weight: bold; float: none; } }
+@media only screen and (min-width: 520px) { header { position: relative; } main { width: 95vw; } h1 a, h1 a:hover, h1 a:active, h1 a:visited { color: #00ebc7; -webkit-text-stroke: 3px #00214d; } .interior h1 a, .interior h1 a:hover { border-bottom: none; color: #00ebc7; } h1 { margin-top: 0; font-size: 4.25em; text-transform: uppercase; letter-spacing: .1rem; font-weight: 700; color: #00ebc7; -webkit-text-stroke: 3px #00214d; } ul { text-decoration: none; list-style-type: none; text-align: left; } li { padding: 0; margin: 15px 0 0; text-transform: uppercase; letter-spacing: .05rem; font-weight: bold; float: none; } }
 
 @media only screen and (min-width: 620px) { nav { width: 100%; margin: 0; } nav ul { display: flow-root; } nav li.mobile-nav { display: none; } nav #menu { position: relative; top: initial; left: initial; width: initial; height: initial; z-index: initial; padding: 0; background-color: none; } nav #menu li { float: left; margin: 0 10px; font-size: 1em; } nav #menu li:first-of-type { margin: 0 10px 0 0; } nav .mobile-hide { display: block; } }
 
@@ -201,6 +201,6 @@ hr { border-top: 3px solid orangered; margin: 25px 0 50px; }
 @media print, (-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 1.25dppx), (min-resolution: 120dpi) { /* Style adjustments for high resolution devices */ }
 
 /* ========================================================================== Print styles. Inlined to avoid the additional HTTP request: https://www.phpied.com/delay-loading-your-print-css/ ========================================================================== */
-@media print { *, *:before, *:after { background: transparent !important; -webkit-box-shadow: none !important; box-shadow: none !important; text-shadow: none !important; } a, a:visited { text-decoration: none; } article a[href]:after { content: " (" attr(href) ")"; } abbr[title]:after { content: " (" attr(title) ")"; } /* Don't show links that are fragment identifiers, or use the `javascript:` pseudo protocol */ a[href^="#"]:after, a[href^="javascript:"]:after { content: ""; } pre { white-space: pre-wrap !important; } pre, blockquote { border: 1px solid #999; page-break-inside: avoid; } /* Printing Tables: http://css-discuss.incutio.com/wiki/Printing_Tables */ thead { display: table-header-group; } tr, img { page-break-inside: avoid; } p, h2, h3 { orphans: 3; widows: 3; } h2, h3 { page-break-after: avoid; } article.tutorial, article.student { border-top: 20px solid midnightblue; border-bottom: 20px solid midnightblue; margin: 50px 0; padding: 50px 50% 50px 0; } footer { display: block; width: 50%; } h1 { font-size: 100px; color: rgba(0, 0, 0, 0) !important; } p:last-of-type { margin-bottom: 0; } .no-print { display: none; } .only-print { display: block; } .print-underline { border-bottom: 2px solid midnightblue; } }
+@media print { *, *:before, *:after { background: transparent !important; -webkit-box-shadow: none !important; box-shadow: none !important; text-shadow: none !important; } a, a:visited { text-decoration: none; } article a[href]:after { content: " (" attr(href) ")"; } abbr[title]:after { content: " (" attr(title) ")"; } /* Don't show links that are fragment identifiers, or use the `javascript:` pseudo protocol */ a[href^="#"]:after, a[href^="javascript:"]:after { content: ""; } pre { white-space: pre-wrap !important; } pre, blockquote { border: 1px solid #999; page-break-inside: avoid; } /* Printing Tables: http://css-discuss.incutio.com/wiki/Printing_Tables */ thead { display: table-header-group; } tr, img { page-break-inside: avoid; } p, h2, h3 { orphans: 3; widows: 3; } h2, h3 { page-break-after: avoid; } article.tutorial, article.student { border-top: 20px solid #00214d; border-bottom: 20px solid #00214d; margin: 50px 0; padding: 50px 50% 50px 0; } footer { display: block; width: 50%; } h1 { font-size: 100px; color: rgba(0, 0, 0, 0) !important; } p:last-of-type { margin-bottom: 0; } .no-print { display: none; } .only-print { display: block; } .print-underline { border-bottom: 2px solid #00214d; } }
 
 /*# sourceMappingURL=styles.css.map */

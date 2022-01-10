@@ -1,0 +1,13 @@
+I"<h4 id="exercise-6-bouncing-ball">Exercise 6: Bouncing Ball</h4>
+<p>Make a realistic ball bounce around the screen in a designed setting (look up <a href="https://www.youtube.com/watch?v=uDqjIdI4bF4&amp;t=254s">staging</a> in the 12 principles of animation). The ball should pretend to exist somewhat as a real object and either use the sides of the frame as walls or the frame should move with the ball. Motions and physics can be exaggerated.</p>
+
+<h5 id="technical-requirements">Technical Requirements</h5>
+<ul>
+  <li>1920x1080</li>
+  <li>Somewhere between 5 and 15 seconds</li>
+  <li>Ball interacts with the edge of the frame or the frame moves with the ball</li>
+  <li>Designed setting for the ball to exist in</li>
+</ul>
+
+<p><span class="due">Due Wednesday, March 10 by 11:59 pm ET</span></p>
+:ET

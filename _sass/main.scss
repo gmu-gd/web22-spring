@@ -94,10 +94,10 @@ textarea {
  Author's custom styles
 ========================================================================== */
 $font-stack: 'bureau-grot', sans-serif;
-$primary-color: orangered;
-$secondary-color: gold;
-$dark-color: midnightblue;
-$light-color: ivory;
+$primary-color: #fffffe;
+$secondary-color: #225bff;
+$dark-color: #00214d;
+$light-color: #00ebc7;
 * {
   box-sizing: border-box;
 }
@@ -392,7 +392,7 @@ ul.date-list {
   list-style-type: none;
 }
 .date {
-  color: $primary-color;
+  color: $secondary-color;
 }
 .spoiler {
   color: white;
