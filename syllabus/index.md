@@ -8,7 +8,7 @@ This is the syllabus for the _Fall 2022_ class of _AVT 415: Web Design and Usabi
 [Download a PDF version]({{ site.baseurl }}/assets/files/AVT415-Syllabus-Spring2022.pdf)
 
 ### Delivery and Timing
-We will meet once a week in person on Mondays from 10:30 to 1:10 in room 1023 in the Art and Design Building. The classes are required and during our sessions we will discuss work, complete demos, and further our coding and design knowledge. The class is scheduled to run for 15 weeks and you can expect to work for 6 hours outside of class each week.
+We will meet once a week in person on Mondays from 4:30 to 7:10 in room 1023 in the Art and Design Building. The classes are required and during our sessions we will discuss work, complete demos, and further our coding and design knowledge. The class is scheduled to run for 15 weeks and you can expect to work for 6 hours outside of class each week.
 
 ### Prerequisites
 AVT 217: Introduction to Web Design, AVT 311: Graphic Design Principles and Methods and AVT 313: Editorial Design, or permission of instructor.
@@ -80,7 +80,7 @@ Your ability to communicate with me is of prime importance in this course. If yo
 The same goes for if you are struggling in this class or having other issues that are hindering your ability to complete work in this class. The more you keep me in the loop the more I can help you and adjust as needed.
 
 ### Weekly Schedule
-Class is on Monday from 10:30–1:10. Most days we will meet for the entire time but some weeks we will have individual meetings or end early. Unless otherwise specified, all work is due at the beginning of class.
+Class is on Monday from 4:30–7:10. Most days we will meet for the entire time but some weeks we will have individual meetings or end early. Unless otherwise specified, all work is due at the beginning of class.
 
 A note&mdash;Time management is an important skill to master and should be worked on all your classes. Staying up all night working is not a badge of honor, it typically means you didn't budget your time correctly. Staying up all night isn't healthy and, especially now, making sure you are keeping yourself healthy is your first priority.
 

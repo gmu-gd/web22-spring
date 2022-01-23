@@ -137,6 +137,7 @@ We will continue our discussion about flexbox and also talk about usability in t
 * _Interneting is Hard:_ [Flexbox](https://www.internetingishard.com/html-and-css/flexbox/)
 * [Flexbox Froggy](http://flexboxfroggy.com/)
 * [Flexbox Defense](http://www.flexboxdefense.com/)
+
 ---
 
 ### March 14 &mdash; Week 8
@@ -200,7 +201,6 @@ A simple way to add motion and interaction to a website is through CSS animation
 
 #### Lessons
 * 11.1: CSS Animations
-
 * E11: Make it Move
 <!-- * E11: [Make it Move({{ site.baseurl }}/projects#e11) -->
 
