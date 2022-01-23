@@ -4,19 +4,31 @@ title: Reference
 ---
 
 ### Books
-* [_Type, Image, Message_ by Nancy Skolos and Tom Wedell](https://wrlc-gm.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_safari_books_9781592531899&context=PC&vid=01WRLC_GML:01WRLC_GML&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=any,contains,type%20image%20message&offset=0)
+* [Learning Web Design](https://www.learningwebdesign.com/)
+* [A Book Apart](https://abookapart.com/)
+* [Type on Screen](https://www.amazon.com/Type-Screen-Critical-Designers-Developers/dp/161689170X?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-d-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=161689170X)
 
 ### Websites
-* [International Poster Gallery](https://www.internationalposter.com/)
-* [Poster House](https://posterhouse.org/)
+* _WDN Web Docs:_ [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
+* [CodePen](https://codepen.io/)
+* [HTML Elements Cheatsheet](https://gmu-gd.github.io/web20-spring/files/learn-html-elements.pdf)
+* [Codecademy](https://www.codecademy.com/)
+* [Interneting is Hard](https://www.internetingishard.com/)
+* [A List Apart](https://alistapart.com/)
+* [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/)
 
-### Articles
-* [Paula Scher and her love of the poster explained](https://www.typeroom.eu/content/paula-scher-and-her-love-poster-explained)
+### Software, Coding
+* [Atom](https://atom.io/)
+* [Sublime Text](https://www.sublimetext.com/)
+* [Brackets](http://brackets.io/)
 
-### Visuals
-* [typo/graphic posters](https://www.typographicposters.com/)
-
-### Software
-* [Adobe InDesign](https://www.adobe.com/products/indesign.html)
+### Software, Design
+* [Adobe XD](https://www.adobe.com/products/xd.html)
+* [Sketch](https://www.sketch.com/)
+* [Figma](https://www.figma.com/)
+* [Lunacy](https://icons8.com/lunacy)
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
-* [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+
+### Software, Other
+* [GitHub Desktop](https://desktop.github.com/)
+* [Zoom](https://zoom.us/)
