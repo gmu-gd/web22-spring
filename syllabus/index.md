@@ -18,10 +18,10 @@ Building on existing skills and principles, this course delves deeper into web-r
 
 ### Objectives
 * Develop general design skills
-* Apply best practices for accessibility and usability as it relates to the design and code
+* Apply best practices for accessibility and usability as they relate to the designing and coding of websites
 * Build knowledge of more advanced HTML and CSS concepts
 * Analyze everyday interactions on the web from a critical perspective
-* The use of frameworks and design systems
+* Understand the use of frameworks and design systems
 
 ### Textbook
 There is no specific textbook for this course but there are many digital resources we will use and reference throughout the semester. Those resources can be found on the [schedule]({{ site.baseurl }}/schedule) and in the [reference]({{ site.baseurl }}/reference)
@@ -30,7 +30,7 @@ There is no specific textbook for this course but there are many digital resourc
 There are many different programs available to use for the work in this class. The programs I will be using are highlighted but alternatives are also listed.
 
 #### design
-<span class="command">Adobe XD</span>, Figma, Sketch, Illustrator, Lunacy. We will not be using Photoshop for design tool.
+<span class="command">Adobe XD</span>, Figma, Sketch, Illustrator, Lunacy. No Photoshop as a design tool.
 
 #### coding
 <span class="command">Atom</span>, Sublime Text, Brackets. We will not be using Dreamweaver, Notepad, or TextEdit as a code editor in this course.
@@ -42,11 +42,11 @@ There are many different programs available to use for the work in this class. T
 This course consists of exercises, projects, demos, discussions, and critiques. The exercises are to familiarize students with specific concepts and ideas and the projects are to synthesize the concepts and ideas we will cover.
 
 #### project 1: tell a story
- Design and build a single page, responsive website that tells the history, process, or story of a selected topic. [More information here]({{ site.baseurl }}/projects).
+ Design and build a single page, responsive website that tells the history, process, or story of a selected topic. The page can be on any topic and will be built out to include six total sections to help explain the topic. [More information here]({{ site.baseurl }}/projects).
 
 
 #### project 2: for sale
-Design a responsive, four page site for a fictional retail company focusing on usability. [More information here]({{ site.baseurl }}/projects).
+Design a responsive, four page site for a fictional retail company focusing on usability. The site will include a home page, inventory page, product page, and one additional page of your choice. [More information here]({{ site.baseurl }}/projects).
 
 ### Engagement
 This course has an engagement policy instead of an attendance policy. Your engagement will affect your final grade (and, by extension, the quality of your work) for this course. You are expected to actively and passionately take part in this course in the following ways.
@@ -60,10 +60,10 @@ This course has an engagement policy instead of an attendance policy. Your engag
 * Care about yourself & your work, your classmates & their work, and this class.
 
 ### Grading
-Grades will be based on engagement (25%),  exercises (25%), and projects (50%).
+Grades will be based on engagement (25%), exercises (25%), and projects (50%).
 
 #### engagement (25%)
-This percentage will be based on your engagement in the class which is explained on previous page but will include attendance, discussion, critiques, and overall participation. Be engaged in this course and its content throughout the semester and this should be an easy 25%.
+This percentage will be based on your engagement in the class which is explained above but will include attendance, discussion, critiques, and overall participation. Be engaged in this course and its content throughout the semester and this should be an easy 25%.
 
 #### exercises (25%)
 The exercises are graded using one of two basic rubrics shown in the PDF version of the syllabus. The rubric that is used depends on whether it was a coding or design exercise and include your ability to follow the instructions of the exercise and your ability to submit it on time. The exercises are meant to be quicker, skill building tasks that improve your coding and design knowledge.
@@ -80,7 +80,7 @@ Your ability to communicate with me is of prime importance in this course. If yo
 The same goes for if you are struggling in this class or having other issues that are hindering your ability to complete work in this class. The more you keep me in the loop the more I can help you and adjust as needed.
 
 ### Weekly Schedule
-Class is on Tuesday from 10:30–1:10. Most days we will meet for the entire time but some weeks we will have individual meetings or end early. Unless otherwise specified, all work is due at the beginning of class.
+Class is on Monday from 10:30–1:10. Most days we will meet for the entire time but some weeks we will have individual meetings or end early. Unless otherwise specified, all work is due at the beginning of class.
 
 A note&mdash;Time management is an important skill to master and should be worked on all your classes. Staying up all night working is not a badge of honor, it typically means you didn't budget your time correctly. Staying up all night isn't healthy and, especially now, making sure you are keeping yourself healthy is your first priority.
 
@@ -95,21 +95,16 @@ You will need to take an active role in both the presentation and discussion of 
 Visual Voices is a year-long series of lectures by artists, art historians and others about contemporary art and art practice. Visual Voices lectures are held on four Thursday evenings from 7:20&ndash;9:00 pm:
 
 <ul class="date-list">
-<li><span class="date">Feb. 10:</span> Wanda Raimundi-Ortiz</li>
-<li><span class="date">Feb. 24:</span> Laurel Nakadate</li>
-<li><span class="date">Mar. 10:</span> Paul Rucker</li>
-<li><span class="date">Apr. 7:</span> Mario Rossero</li>
+<li><span class="date">Feb 10:</span> Wanda Raimundi-Ortiz</li>
+<li><span class="date">Feb 24:</span> Laurel Nakadate</li>
+<li><span class="date">Mar 10:</span> Paul Rucker</li>
+<li><span class="date">Apr 7:</span> Mario Rossero</li>
 </ul>
 
 For Spring 2022, this [lecture series](https://www.masonexhibitions.org/visual-voices-spring-2022) will be held online.
 
-### Space Talk: Anti-Racist Student Engagement Initiative
-Please join the School of Art for a virtual, forum style student panel where students will lead discussions about topics relating to inclusion, equity, and responsibility in the classroom, on campus, and anywhere else where people share space.
-
-Keep an eye on your email for more information.
-
 ### School of Art Social Media Accounts
-IG: @gmusoa / FB: gmu.soa / TW: gmusoa
+IG: gmusoa / FB: gmu.soa / TW: gmusoa
 
 ### Writing center and Library Resources
 Students who are in need of intensive help with grammar, structure or mechanics in their writing should make use of the services of Writing Center. For Spring 2022, the Writing Center is holding all sessions online, with writers choosing between meeting their tutor in real time on Zoom or uploading a draft for their tutor's written feedback. Please send your questions to wcenter@gmu.edu

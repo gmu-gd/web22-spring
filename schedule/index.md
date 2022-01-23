@@ -11,7 +11,7 @@ If you want to know what is due for next class, [check here]({{ site.baseurl }}/
 In our first week we will review the syllabus, get our programs set up, go through some XD tips, and test our HTML and CSS knowledge.
 
 #### Class
-* 1.1: Syllabus
+* 1.1: Introduction
 * 1.2: XD Basics
 * HTML &amp; CSS Test
 
@@ -69,7 +69,8 @@ A website can't exist without links and this week we will refresh our memories o
 
 #### Class
 * 4.1: Writing and Styling Links
-* 4.2: Responsive Design and Media Queries
+* 4.2: Responsive Design
+* 4.3: Media Queries
 
 #### Starting
 * E5: Linking Links
@@ -186,8 +187,8 @@ Printing from the web typical prints a page that looks almost identical to the p
 * 10.1: Print Styles
 
 #### Starting
-* E10: Print Styles
-<!-- * E10: [Print Styles]({{ site.baseurl }}/projects#e10) -->
+* E10: The Printed Web
+<!-- * E10: [The Printed Web]({{ site.baseurl }}/projects#e10) -->
 
 #### Digital References
 * _Sympli:_ [CSS Media for Printable Webpages](https://sympli.io/blog/a-quick-guide-to-css-for-printable-webpages/)
@@ -212,12 +213,12 @@ A simple way to add motion and interaction to a website is through CSS animation
 Javascript allows us to bring more interaction and other features to our websites that HTML and CSS cannot. We will cover the basics of Javascript and look at how we can integrate plugins to our sites.
 
 #### Lessons
-* 11.1: Javascript and jQuery Basics
-* 11.2: Plugins
+* 12.1: Javascript and jQuery Basics
+* 12.2: Plugins
 
 #### Starting
-* E12: Use a Plugin
-<!-- * E12: [Use a Plugin]({{ site.baseurl }}/projects#e12) -->
+* E12: Plug it In
+<!-- * E12: [Plug it In]({{ site.baseurl }}/projects#e12) -->
 
 #### Digital Resources
 * _WDN Web Docs:_ [Javascript, Dynamic Client-side Scripting](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
