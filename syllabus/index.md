@@ -44,7 +44,6 @@ This course consists of exercises, projects, demos, discussions, and critiques. 
 #### project 1: tell a story
  Design and build a single page, responsive website that tells the history, process, or story of a selected topic. The page can be on any topic and will be built out to include six total sections to help explain the topic. [More information here]({{ site.baseurl }}/projects).
 
-
 #### project 2: for sale
 Design a responsive, four page site for a fictional retail company focusing on usability. The site will include a home page, inventory page, product page, and one additional page of your choice. [More information here]({{ site.baseurl }}/projects).
 
@@ -90,7 +89,6 @@ The [schedule]({{ site.baseurl }}/schedule/) on this site is an outline of what 
 ### Discussion of Work
 You will need to take an active role in both the presentation and discussion of your work. We will review projects in a variety of ways and you are expected to be able to talk and write about your own work and give feedback to your peers about their work. The ability to discuss your work and other student’s work is a very important part of your education at Mason. Use this class to improve on those skills.
 
-
 ### Visual Voices Lecture Series
 Visual Voices is a year-long series of lectures by artists, art historians and others about contemporary art and art practice. Visual Voices lectures are held on four Thursday evenings from 7:20&ndash;9:00 pm:
 
@@ -106,7 +104,7 @@ For Spring 2022, this [lecture series](https://www.masonexhibitions.org/visual-v
 ### School of Art Social Media Accounts
 IG: gmusoa / FB: gmu.soa / TW: gmusoa
 
-### Writing center and Library Resources
+### Writing Center and Library Resources
 Students who are in need of intensive help with grammar, structure or mechanics in their writing should make use of the services of Writing Center. For Spring 2022, the Writing Center is holding all sessions online, with writers choosing between meeting their tutor in real time on Zoom or uploading a draft for their tutor's written feedback. Please send your questions to wcenter@gmu.edu
 
 Provisions Research Center for Art & Social Change is located in Room L001 of the Art & Design Building. This student resource assists students in exploring and engaging new models for artmaking that lead to a more inclusive, equitable, and connected society. Provisions is also a hub for developing art projects through Mason Exhibitions, the Mural Brigade, and art partners throughout the metropolitan area, and beyond. Contact Don Russell for more information: drusse10@gmu.edu
@@ -141,7 +139,7 @@ For all unvaccinated students, faculty, staff, contractors, and visitors, all of
 
 For additional reference and updates, please see: https://www.gmu.edu/safe-return-campus/personal-and-public-health/face-coverings
 
-### Support for you, from the GMU community, in these challenging times: CAPS at Mason is Here for You
+### CAPS at Mason is Here for You
 Counseling & Psychological Services provides a wide range of free services to students. CAPS offers crisis, counseling, and psychiatric services virtually, and limited services in person. Services are provided by a staff of licensed clinical psychologists, licensed professional counselors, licensed social workers, doctoral-level trainees, and a board-certified psychiatrist. Our individual and group counseling, workshops, and community education programs are designed to enhance students’ personal experience and academic performance. For distance learners, please see our [Resources for Distance Learning page](https://caps.gmu.edu/resources-for-distance-learning/). We also provide consultation to faculty and staff who have concerns about a student
 
 CAPS provides short-term mental health services for enrolled students. When a student’s needs require a different level of care, CAPS works with students to transition care to community providers. If a student is currently seeing a professional in the community for therapy and can continue to work with them, we encourage the student to continue care with their current provider.
@@ -163,8 +161,7 @@ Note that this course requires/strongly recommends the use of Adobe Creative Clo
 
 The Collaborative Learning Hub Located in Johnson Center 311 (703-993-3141), the lab offers in-person one-on-one support for the Adobe Creative Suite, Microsoft Office, Blackboard, and a variety of other software. Dual monitor PCs make the lab ideal for collaborating on group projects, Macs are also available; as well as a digital recording space, collaborative tables, and a SMART Board. Reservations are strongly encouraged due to COVID-19 precautions and limited amounts of resources, but walk-ins will still be accepted so long as the occupancy of the lab does not exceed the maximum of 16 people https://its.gmu.edu/service/club/
 
-
-### Important Deadlines:
+### Important Deadlines
 <ul class="date-list">
 <li><span class="date">Jan 24:</span> First Day of Spring Classes</li>
 <li><span class="date">Jan 24:</span> Last Day to Submit Domicile Reclassification Application</li>
