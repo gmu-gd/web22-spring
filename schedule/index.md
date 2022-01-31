@@ -32,16 +32,21 @@ The ability to create and interactive prototype of a website is an incredibly po
 * 2.2: Accessibility in Web Design
 
 #### Starting
-* E2: Linking in XD
-<!-- * E2: [Connecting Pages]({{ site.baseurl }}/projects#e2) -->
+* E2: [Connecting Pages]({{ site.baseurl }}/projects#e2)
 
 #### Digital References
 * _Adobe:_ [Adobe XD Get Started: Components and libraries.](https://www.adobe.com/products/xd/learn/get-started-xd-components-libraries.html)
 * _Adobe:_ [Get Started with Adobe XD: Prototype.](https://www.adobe.com/products/xd/learn/get-started-xd-prototype.html)
 * _Interneting is Hard:_ [Introduction](https://www.internetingishard.com/html-and-css/introduction/)
 * _Interneting is Hard:_ [Basic Web Pages](https://www.internetingishard.com/html-and-css/basic-web-pages/)
+* [W3C Web Accessibility Initiative](https://www.w3.org/WAI/)
+* [Wai-Aria 1.1 Cheat Sheet](https://www.digitala11y.com/wai-aria-1-1-cheat-sheet/)
 * [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
+* [Easy Checks - A First Review of Web Accessiblity](https://www.w3.org/WAI/test-evaluate/preliminary/)
 * [W3C Validator](https://validator.w3.org/)
+* [Contrast Checker](https://coolors.co/contrast-checker/bac7a8-acc8e5)
+* [Hemingway App](https://hemingwayapp.com/)
+* [Dos and Don'ts on designing for accessibility](https://www.google.com/url?q=https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/&sa=D&source=editors&ust=1643665807569575&usg=AOvVaw3mfGBmNnMvu2hKWU8wfbsg)
 
 ---
 
