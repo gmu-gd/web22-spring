@@ -2,6 +2,9 @@
 layout: interior
 title: Reference
 ---
+### Class Links
+* [Github Repository](https://github.com/mmcdermott18/avt415-sp22)
+* [Live Repository](https://mmcdermott18.github.io/avt415-sp22/)
 
 ### Books
 * [Learning Web Design](https://www.learningwebdesign.com/)
