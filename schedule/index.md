@@ -59,10 +59,7 @@ We will continue exploring the possibilities of prototyping in XD and continue r
 * 3.3: Classes and Ids
 
 #### Starting
-* E3: Hover and Animations in XD
-<!-- * E3: [Hover and Animations in XD]({{ site.baseurl }}/projects#e3) -->
-* E4: Build a Flag
-<!-- * E4: [Build a Flag]({{ site.baseurl }}/projects#e4) -->
+* E3: [Hover and Animations in XD]({{ site.baseurl }}/projects#e3)
 
 #### Digital References
 * _Adobe:_ [Get Started with Adobe XD: Prototype.](https://www.adobe.com/products/xd/learn/get-started-xd-prototype.html)
@@ -78,6 +75,8 @@ A website can't exist without links and this week we will refresh our memories o
 * 4.3: Media Queries
 
 #### Starting
+* E4: Build a Flag
+<!-- * E4: [Build a Flag]({{ site.baseurl }}/projects#e4) -->
 * E5: Linking Links
 <!-- * E5: [Linking Links]({{ site.baseurl }}/projects#e5) -->
 
