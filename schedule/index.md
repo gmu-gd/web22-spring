@@ -32,7 +32,7 @@ The ability to create and interactive prototype of a website is an incredibly po
 * 2.2: Accessibility in Web Design
 
 #### Starting
-* E2: [Connecting Pages]({{ site.baseurl }}/projects#e2)
+* E2: [Linking in XD]({{ site.baseurl }}/projects#e2)
 
 #### Digital References
 * _Adobe:_ [Adobe XD Get Started: Components and libraries.](https://www.adobe.com/products/xd/learn/get-started-xd-components-libraries.html)
