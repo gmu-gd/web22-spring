@@ -75,10 +75,8 @@ A website can't exist without links and this week we will refresh our memories o
 * 4.3: Media Queries
 
 #### Starting
-* E4: Build a Flag
-<!-- * E4: [Build a Flag]({{ site.baseurl }}/projects#e4) -->
-* E5: Linking Links
-<!-- * E5: [Linking Links]({{ site.baseurl }}/projects#e5) -->
+* E4: [Valentine's Day Card]({{ site.baseurl }}/projects#e4)
+* E5: [Linking Links]({{ site.baseurl }}/projects#e5)
 
 #### Digital References
 * _Interneting is Hard:_ [Links and Images](https://www.internetingishard.com/html-and-css/links-and-images/)
