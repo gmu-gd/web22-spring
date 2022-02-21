@@ -93,15 +93,18 @@ Continuing on the HTML and CSS path we are talking about web typography and form
 * 5.3: CSS Box Model
 
 #### Starting
-* E6: Form Redesign
-<!-- * E6: [Form Redesign]({{ site.baseurl }}/projects#e6) -->
-* P2: For Sale
-<!-- * P2: [For Sale]({{ site.baseurl }}/projects/p2) -->
+* E6: [Form Redesign]({{ site.baseurl }}/projects#e6)
+* P2: [For Sale]({{ site.baseurl }}/projects/p2)
 
 #### Digital References
 * _Interneting is Hard:_ [Web Typography](https://www.internetingishard.com/html-and-css/web-typography/)
 * _Interneting is Hard:_ [CSS Box Model](https://www.internetingishard.com/html-and-css/css-box-model/)
 * _Interneting is Hard:_ [Forms](https://www.internetingishard.com/html-and-css/forms/)
+* _Adobe:_ [Prototype](https://www.adobe.com/products/xd/learn/prototype.html)
+* _Adobe:_ [Design a Sign Up Form](https://www.adobe.com/products/xd/learn/design-systems/components/design-a-sign-up-form.html)
+* _Adobe:_ [Common Use Cases for Component States](https://www.adobe.com/products/xd/learn/prototype/component-states/component-states-common-use-cases.html)
+* [User Inyerface](https://userinyerface.com/)
+* [Can't Unsee](hhttps://cantunsee.space/)
 
 ---
 
@@ -153,10 +156,6 @@ This week we will start covering CSS Grids, another more powerful CSS layout opt
 #### Lessons
 * 8.1: Usability 2
 * 8.2: CSS Grid 1
-
-#### Digital References
-* [User Inyerface](https://userinyerface.com/)
-* [Can't Unsee](hhttps://cantunsee.space/)
 
 ---
 
