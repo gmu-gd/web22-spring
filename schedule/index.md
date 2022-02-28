@@ -109,6 +109,11 @@ Continuing on the HTML and CSS path we are talking about web typography and form
 ---
 
 ### February 28 &mdash; Week 6
+A general review on some coding and design topics covered in previous weeks.
+
+---
+
+### March 7 &mdash; Week 7
 This week we will cover semantic HTML and the first week of learning about flexbox.
 
 #### Class Lessons
@@ -126,7 +131,12 @@ This week we will cover semantic HTML and the first week of learning about flexb
 
 ---
 
-### March 7 &mdash; Week 7
+### March 14 &mdash; Week 8
+No class, Spring Break!
+
+---
+
+### March 21 &mdash; Week 9
 We will continue our discussion about flexbox and also talk about usability in the web.
 
 #### Class Lessons
@@ -145,12 +155,7 @@ We will continue our discussion about flexbox and also talk about usability in t
 
 ---
 
-### March 14 &mdash; Week 8
-No class, Spring Break!
-
----
-
-### March 21 &mdash; Week 9
+### March 28 &mdash; Week 10
 This week we will start covering CSS Grids, another more powerful CSS layout option. We will also continue our discussion on usability.
 
 #### Lessons
@@ -159,7 +164,15 @@ This week we will start covering CSS Grids, another more powerful CSS layout opt
 
 ---
 
-### March 28 &mdash; Week 10
+### April 4 &mdash; Week 11
+This week is a catch up week. We will look at the progress on P2 but otherwise it is a time for you to work in class and make sure you are all caught up on projects and exercises.
+
+#### Lessons
+* Individual meetings
+
+---
+
+### April 11 &mdash; Week 12
 We will finish up our discussion on CSS Grid this week.
 
 #### Lessons
@@ -174,15 +187,7 @@ We will finish up our discussion on CSS Grid this week.
 
 ---
 
-### April 4 &mdash; Week 11
-This week is a catch up week. We will look at the progress on P2 but otherwise it is a time for you to work in class and make sure you are all caught up on projects and exercises.
-
-#### Lessons
-* Individual meetings
-
----
-
-### April 11 &mdash; Week 12
+### April 18 &mdash; Week 13
 Printing from the web typical prints a page that looks almost identical to the page on the web. But just like using media queries to change the layout for different screen sizes, we can also control what the printed page looks like.
 
 #### Lessons
@@ -197,7 +202,7 @@ Printing from the web typical prints a page that looks almost identical to the p
 
 ---
 
-### April 18 &mdash; Week 13
+### April 25 &mdash; Week 14
 A simple way to add motion and interaction to a website is through CSS animations. We will cover the basic principles of creating an animation entirely through CSS this week.
 
 #### Lessons
@@ -210,7 +215,15 @@ A simple way to add motion and interaction to a website is through CSS animation
 
 ---
 
-### April 25 &mdash; Week 14
+### May 2 &mdash; Week 15
+The final week to review any odds and ends.
+
+---
+
+### May 16 &mdash; Week 16
+Final critiques.
+
+<!-- ### April 25 &mdash; Week 14
 Javascript allows us to bring more interaction and other features to our websites that HTML and CSS cannot. We will cover the basics of Javascript and look at how we can integrate plugins to our sites.
 
 #### Lessons
@@ -219,19 +232,11 @@ Javascript allows us to bring more interaction and other features to our website
 
 #### Starting
 * E12: Plug it In
-<!-- * E12: [Plug it In]({{ site.baseurl }}/projects#e12) -->
+* E12: [Plug it In]({{ site.baseurl }}/projects#e12)
 
 #### Digital Resources
 * _WDN Web Docs:_ [Javascript, Dynamic Client-side Scripting](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 * [Learn Programming](https://learnprogramming.online/)
 * [Learn Javascript](https://learnjavascript.online/)
 
----
-
-### May 2 &mdash; Week 15
-The final week to review any odds and ends.
-
----
-
-### May 16 &mdash; Week 16
-Final critiques.
+-->
