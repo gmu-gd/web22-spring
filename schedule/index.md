@@ -127,7 +127,7 @@ This week we will focus on wireframes.
 
 #### Digital References
 * _usability.gov:_ [Wireframing](https://www.usability.gov/how-to-and-tools/methods/wireframing.html)
-* _Balsamiq:_ [What are Wireframes?](https://www.usability.gov/how-to-and-tools/methods/wireframing.html)
+* _Balsamiq:_ [What are Wireframes?](https://balsamiq.com/learn/articles/what-are-wireframes/)
 * _Figma:_ [How to Wireframe](https://www.figma.com/blog/how-to-wireframe/)
 * _Adobe:_ [Everything You Need to Know About Wireframe Design and Prototypes](https://xd.adobe.com/ideas/process/wireframing/wireframe-design-definition/)
 * _Interneting is Hard:_ [Semantic HTML](https://www.internetingishard.com/html-and-css/semantic-html/)
