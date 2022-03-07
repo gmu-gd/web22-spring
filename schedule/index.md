@@ -114,17 +114,22 @@ A general review on some coding and design topics covered in previous weeks.
 ---
 
 ### March 7 &mdash; Week 7
-This week we will cover semantic HTML and the first week of learning about flexbox.
+This week we will focus on wireframes.
 
 #### Class Lessons
-* 6.1: Semantic HTML
-* 6.2: Flexbox 1
+* 6.1: Wireframes
 
 #### Starting
-* E7: Build a Form
-<!-- * E7: [Build a Form]({{ site.baseurl }}/projects#e7) -->
+<!-- * E7: Reverse Wireframe -->
+* E7: [Reverse Wireframe]({{ site.baseurl }}/projects#e7)
+<!-- * E7: Landing Page -->
+* E7: [Landing Page]({{ site.baseurl }}/projects#e7)
 
 #### Digital References
+* _usability.gov:_ [Wireframing](https://www.usability.gov/how-to-and-tools/methods/wireframing.html)
+* _Balsamiq:_ [What are Wireframes?](https://www.usability.gov/how-to-and-tools/methods/wireframing.html)
+* _Figma:_ [How to Wireframe](https://www.figma.com/blog/how-to-wireframe/)
+* _Adobe:_ [Everything You Need to Know About Wireframe Design and Prototypes](https://xd.adobe.com/ideas/process/wireframing/wireframe-design-definition/)
 * _Interneting is Hard:_ [Semantic HTML](https://www.internetingishard.com/html-and-css/semantic-html/)
 * _Interneting is Hard:_ [Flexbox](https://www.internetingishard.com/html-and-css/flexbox/)
 * _Interneting is Hard:_ [Forms](https://www.internetingishard.com/html-and-css/forms/)
