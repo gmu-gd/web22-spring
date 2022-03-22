@@ -142,14 +142,21 @@ No class, Spring Break!
 ---
 
 ### March 21 &mdash; Week 9
-We will continue our discussion about flexbox and also talk about usability in the web.
+This week is a catch up week. We will look at the progress on P2 but otherwise it is a time for you to work in class and make sure you are all caught up on projects and exercises.
+
+#### Lessons
+* Individual meetings
+
+---
+
+### March 28 &mdash; Week 10
+People being able to use the sites we design is an important consideration while designing. This week we will start our conversation on usability for the web.
 
 #### Class Lessons
-* 7.1: Flexbox 2
-* 7.2: Usability 1
+* 7.1: Usability 1
 
 #### Starting
-* E8: Flexbox Layouts
+<!-- * E8: Flexbox Layouts -->
 <!-- * E8: [Flexbox Layouts]({{ site.baseurl }}/projects#e8) -->
 
 #### Digital References
@@ -160,31 +167,23 @@ We will continue our discussion about flexbox and also talk about usability in t
 
 ---
 
-### March 28 &mdash; Week 10
-This week we will start covering CSS Grids, another more powerful CSS layout option. We will also continue our discussion on usability.
+### April 4 &mdash; Week 11
+A continuation of our discussion on usability.
 
 #### Lessons
 * 8.1: Usability 2
-* 8.2: CSS Grid 1
-
----
-
-### April 4 &mdash; Week 11
-This week is a catch up week. We will look at the progress on P2 but otherwise it is a time for you to work in class and make sure you are all caught up on projects and exercises.
-
-#### Lessons
-* Individual meetings
+<!-- * 8.2: CSS Grid 1 -->
 
 ---
 
 ### April 11 &mdash; Week 12
-We will finish up our discussion on CSS Grid this week.
+In class workshop UX.
 
 #### Lessons
-* 9.1: CSS Grid 2
+* 9.1: UX
 
 #### Starting
-* E9: Grid Layouts
+<!-- * E9: Grid Layouts -->
 <!-- * E9: [Grid Layouts]({{ site.baseurl }}/projects#e9) -->
 
 #### Digital References
