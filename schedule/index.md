@@ -10,7 +10,7 @@ If you want to know what is due for next class, [check here]({{ site.baseurl }}/
 ### January 24 &mdash; Week 1
 In our first week we will review the syllabus, get our programs set up, go through some XD tips, and test our HTML and CSS knowledge.
 
-#### Class
+#### Lessons
 * 1.1: Introduction
 * 1.2: XD Basics
 * HTML &amp; CSS Test
@@ -27,7 +27,7 @@ In our first week we will review the syllabus, get our programs set up, go throu
 ### January 31 &mdash; Week 2
 The ability to create and interactive prototype of a website is an incredibly powerful tool for a designer. It is also important for designers to understand accessibility as it relates to the web. We will cover both these topics this week along with reviewing HTML basics.
 
-#### Class
+#### Lessons
 * 2.1: Plugins and Prototyping in XD
 * 2.2: Accessibility in Web Design
 
@@ -53,7 +53,7 @@ The ability to create and interactive prototype of a website is an incredibly po
 ### February 7 &mdash; Week 3
 We will continue exploring the possibilities of prototyping in XD and continue reviewing HTML and CSS basics.
 
-#### Class
+#### Lessons
 * 3.1: Prototyping in XD (continued)
 * 3.2: CSS Basics
 * 3.3: Classes and Ids
@@ -69,7 +69,7 @@ We will continue exploring the possibilities of prototyping in XD and continue r
 ### February 14 &mdash; Week 4
 A website can't exist without links and this week we will refresh our memories of coding and styling links. We will also talk about responsive design and how responsive design is implemented in code through media queries.
 
-#### Class
+#### Lessons
 * 4.1: Writing and Styling Links
 * 4.2: Responsive Design
 * 4.3: Media Queries
@@ -87,7 +87,7 @@ A website can't exist without links and this week we will refresh our memories o
 ### February 21 &mdash; Week 5
 Continuing on the HTML and CSS path we are talking about web typography and forms this week. We are also reviewing the CSS box model.
 
-#### Class
+#### Lessons
 * 5.1: Web Typography
 * 5.2: Forms
 * 5.3: CSS Box Model
@@ -116,7 +116,7 @@ A general review on some coding and design topics covered in previous weeks.
 ### March 7 &mdash; Week 7
 This week we will focus on wireframes.
 
-#### Class Lessons
+#### Lessons
 * 6.1: Wireframes
 
 #### Starting
@@ -152,7 +152,7 @@ This week is a catch up week. We will look at the progress on P2 but otherwise i
 ### March 28 &mdash; Week 10
 People being able to use the sites we design is an important consideration while designing. This week we will start our conversation on usability for the web.
 
-#### Class Lessons
+#### Lessons
 * 7.1: Usability 1
 
 #### Starting
@@ -177,12 +177,12 @@ A continuation of our discussion on usability.
 ---
 
 ### April 11 &mdash; Week 12
-In class workshop UX.
+In class group meetings to review Project 2.
 
-#### Lessons
-* 9.1: UX
+<!-- #### Lessons -->
 
-#### Starting
+
+<!-- #### Starting -->
 <!-- * E9: Grid Layouts -->
 <!-- * E9: [Grid Layouts]({{ site.baseurl }}/projects#e9) -->
 
