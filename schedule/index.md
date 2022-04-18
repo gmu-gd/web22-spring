@@ -123,7 +123,7 @@ This week we will focus on wireframes.
 <!-- * E7: Reverse Wireframe -->
 * E7: [Reverse Wireframe]({{ site.baseurl }}/projects#e7)
 <!-- * E7: Landing Page -->
-* E7: [Landing Page]({{ site.baseurl }}/projects#e7)
+* E8: [Landing Page]({{ site.baseurl }}/projects#e7)
 
 #### Digital References
 * _usability.gov:_ [Wireframing](https://www.usability.gov/how-to-and-tools/methods/wireframing.html)
@@ -156,6 +156,8 @@ People being able to use the sites we design is an important consideration while
 * 7.1: Usability 1
 
 #### Starting
+<!-- * E9: Not So Usable -->
+* E9: [Not So Usable]({{ site.baseurl }}/projects#e9)
 <!-- * E8: Flexbox Layouts -->
 <!-- * E8: [Flexbox Layouts]({{ site.baseurl }}/projects#e8) -->
 
@@ -173,6 +175,10 @@ A continuation of our discussion on usability.
 #### Lessons
 * 8.1: Usability 2
 <!-- * 8.2: CSS Grid 1 -->
+
+#### Starting
+<!-- * E10: 10 Usability Heuristics -->
+* E10: [10 Usability Heuristics]({{ site.baseurl }}/projects#e10)
 
 ---
 
@@ -192,13 +198,15 @@ In class group meetings to review Project 2.
 ---
 
 ### April 18 &mdash; Week 13
-Printing from the web typical prints a page that looks almost identical to the page on the web. But just like using media queries to change the layout for different screen sizes, we can also control what the printed page looks like.
+In class workshop and critiques.
 
 #### Lessons
-* 10.1: Print Styles
+* Design Thinking Process
 
 #### Starting
-* E10: The Printed Web
+* E11: Design a Hat
+<!-- * E11: [Design a Hat]({{ site.baseurl }}/projects#e11) -->
+<!-- * E10: The Printed Web -->
 <!-- * E10: [The Printed Web]({{ site.baseurl }}/projects#e10) -->
 
 #### Digital References
@@ -207,11 +215,11 @@ Printing from the web typical prints a page that looks almost identical to the p
 ---
 
 ### April 25 &mdash; Week 14
-A simple way to add motion and interaction to a website is through CSS animations. We will cover the basic principles of creating an animation entirely through CSS this week.
+Continuing our in class workshop and critiques.
 
 #### Lessons
 * 11.1: CSS Animations
-* E11: Make it Move
+* E11: Make it Move.
 <!-- * E11: [Make it Move({{ site.baseurl }}/projects#e11) -->
 
 #### Digital Resources
@@ -220,12 +228,12 @@ A simple way to add motion and interaction to a website is through CSS animation
 ---
 
 ### May 2 &mdash; Week 15
-The final week to review any odds and ends.
+Early due date and review of work.
 
 ---
 
 ### May 16 &mdash; Week 16
-Final critiques.
+Everything due.
 
 <!-- ### April 25 &mdash; Week 14
 Javascript allows us to bring more interaction and other features to our websites that HTML and CSS cannot. We will cover the basics of Javascript and look at how we can integrate plugins to our sites.
