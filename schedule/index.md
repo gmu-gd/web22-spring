@@ -204,8 +204,8 @@ In class workshop and critiques.
 * Design Thinking Process
 
 #### Starting
-* E11: Design a Hat
-<!-- * E11: [Design a Hat]({{ site.baseurl }}/projects#e11) -->
+<!-- * E11: Design a Hat -->
+* E11: [Design a Hat]({{ site.baseurl }}/projects#e11)
 <!-- * E10: The Printed Web -->
 <!-- * E10: [The Printed Web]({{ site.baseurl }}/projects#e10) -->
 
@@ -217,9 +217,9 @@ In class workshop and critiques.
 ### April 25 &mdash; Week 14
 Continuing our in class workshop and critiques.
 
-#### Lessons
-* 11.1: CSS Animations
-* E11: Make it Move.
+<!-- #### Lessons -->
+<!-- * 11.1: CSS Animations -->
+<!-- * E11: Make it Move. -->
 <!-- * E11: [Make it Move({{ site.baseurl }}/projects#e11) -->
 
 #### Digital Resources
